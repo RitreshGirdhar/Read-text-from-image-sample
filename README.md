@@ -1,7 +1,6 @@
 # Read-text-from-image
 Python based Sample application which will help in extracting text from the images
 
-
 ### Steps to Set up
 
 ```
